@@ -7,7 +7,7 @@
 
 - Deadpool sneaking animation + even more ridiculous animations that change every time you sneak --> copy cartoons, e.g. Tom and Jerry
 
-- 
+- curved parabolic movement, movement in x, z and y rarely seen in game animations during jump
 
 ## Combat
 
@@ -15,4 +15,3 @@
 
 - Onepunchman boros fight
 
-- curved parabolic movement, movement in x, z and y rarely seen in game animations during jump
