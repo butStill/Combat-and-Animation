@@ -1,4 +1,18 @@
 # Combat and Animation
 
 
-[flip thing at 0:45](https://andrewaverkin.com/projects/1eny3)
+## Movement
+
+- [flip thing at 0:45](https://andrewaverkin.com/projects/1eny3)
+
+- Deadpool sneaking animation + even more ridiculous animations that change every time you sneak --> copy cartoons, e.g. Tom and Jerry
+
+- 
+
+## Combat
+
+- Old wolf curved sword, RKPGS, Friedes scythe, Sellsword twinblades, frayed blade + other katanas, gael's greatsword, demon's scar
+
+- Onepunchman boros fight
+
+- curved parabolic movement, movement in x, z and y rarely seen in game animations during jump
