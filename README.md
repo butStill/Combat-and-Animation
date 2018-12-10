@@ -15,3 +15,5 @@
 
 - Onepunchman boros fight
 
+- https://www.reddit.com/r/patientgamers/comments/6k20u6/what_games_really_nailed_smooth_animations_and/
+
